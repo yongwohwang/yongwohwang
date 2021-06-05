@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Woody
-- 👀 I’m interested in International Business & Finance & Analysis & Development
+- 👀 I’m interested in International Business & Finance & Analysis & Internatoinal Development
 - 👨‍💻 I've been living in Vietnam for 5 years.
 - 🌱 I’m currently learning many programming languages.. 
 - 💞️ I’m looking to collaborate on ...?
